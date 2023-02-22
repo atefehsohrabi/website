@@ -1,0 +1,22 @@
+.container{
+    padding: 80px 100px;
+    background-color: #30c0e4;
+    display: flex;
+    justify-content: space-between;
+}
+.container input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+.container:placeholder{
+    font-size: 1rem;
+}
+
+.container p{
+    font-size: 4rem;
+    font-weight: bold;
+    color: #fff;
+}

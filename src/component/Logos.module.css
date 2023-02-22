@@ -1,0 +1,23 @@
+
+.container{
+    text-align: center;
+    margin: 60px;
+}
+
+.container h2{
+    color: #505050;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.container div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+
+}
+.container img{
+ 
+    height: 100px;
+}

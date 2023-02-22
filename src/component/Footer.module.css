@@ -1,0 +1,9 @@
+.container{
+    background-color: rgb(159, 159, 159);
+    height: 40px;
+    text-align: center;
+
+}
+.container p{
+    line-height: 40px;
+}
